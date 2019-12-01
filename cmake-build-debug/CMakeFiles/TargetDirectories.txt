@@ -1,0 +1,3 @@
+/Users/johnmontaguehowitt/CLionProjects/c-m2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/johnmontaguehowitt/CLionProjects/c-m2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/johnmontaguehowitt/CLionProjects/c-m2/cmake-build-debug/CMakeFiles/c_m2.dir
